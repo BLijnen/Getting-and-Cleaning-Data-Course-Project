@@ -33,6 +33,6 @@ In order to obtain the tidy.txt file, an R script has been made. I have made thi
 * Labeling the data set with descriptive variable names  
 * From the data set in step 4, I have created a second, independent tidy data set with the average of each variable for each activity and each subject
 
-# The Codebook
+## The Codebook
 
 The CodeBook.md file explains the transformations performed and the resulting data and variables
